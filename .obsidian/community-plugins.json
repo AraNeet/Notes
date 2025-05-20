@@ -1,3 +1,8 @@
 [
-  "github-sync"
+  "github-sync",
+  "obsidian-embedded-code-title",
+  "obsidian-tasks-plugin",
+  "obsidian-discordrpc",
+  "obsidian-style-settings",
+  "obsidian-minimal-settings"
 ]

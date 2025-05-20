@@ -4,6 +4,21 @@
 	- Echogo
 	- Templ
 
+## Tools
+	Git
+	
+
+## Docs
+	https://discord.com/developers/docs/intro
+	
+	https://pkg.go.dev/github.com/bwmarrin/discordgo#pkg-overview
+	
+	https://echo.labstack.com/docs
+	
+	https://surrealdb.com/docs/sdk/golang
+	
+	https://templ.guide/
+
 ## Systems
 	- Customizing System
 		-  Shop System
@@ -34,36 +49,36 @@
 ## Weight
 
 	### Races
-		Humans - 10
-		Elf - 1
-		Drawf - 1
-		Demon - 1
-		Angel - 1
-		Dullahan - 1
-		Lamia - 1
-		Gnome - 1
-		Orc - 1
-		Goblin - 1
-		Giant - 1
-		Centaur - 1
-		Kobold - 1
-		Beastfolk - 1
-		Mushfolk - 1
-		Merfolk - 1
-		Dragonborn - 1
-		Fairy - 1
-		Cyclops - 1
-		Druid - 1
-		God - 1
-		Minotaur - 1
-		Wizard/Witch - 1
-		Vampire - 1
-		WereWolf - 1
-		Undead - 1
-		Ghost - 1
-		Harpy - 1
-		Skeleton - 1
-		Djinn - 1
+		Humans - 10 X Common
+		Elf - 1 X Uncommon
+		Drawf - 1 X Uncommon
+		Demon - 1 X Epic
+		Angel - 1 X Epic
+		Dullahan - 1 X Rare
+		Lamia - 1 X Uncommon
+		Gnome - 1 X Common
+		Orc - 1 X Common
+		Goblin - 1 X Common
+		Giant - 1 X Common
+		Centaur - 1 X Uncommon
+		Kobold - 1 X Common
+		Beastfolk - 1 X Uncommon
+		Mushfolk - 1 X Uncommon
+		Merfolk - 1 X Rare
+		Dragonborn - 1 X Legandary
+		Fairy - 1 X Rare
+		Cyclops - 1 X Uncommon
+		Druid - 1 X Rare
+		God - 1 X Legandary
+		Minotaur - 1 X Uncommon
+		Wizard/Witch - 1 X Epic
+		Vampire - 1 X Rare
+		WereWolf - 1 X Rare
+		Undead - 1 X Uncommon
+		Ghost - 1 X Rare
+		Harpy - 1 X Uncommon
+		Skeleton - 1 X Common 
+		Djinn - 1 X Epic
 	### Weapon
 		None - 14
 		Basic Sword - 1
@@ -106,42 +121,44 @@
 		Magic Staff - 1
 		Magic Grimoire - 1
 	### Companion
-		Small Dragon - 1
-		Dragon - 1
-		Wyvern - 1
-		Unicorn - 1
-		Horse - 1
-		Phoenix - 1
-		Giant Bat - 1
-		Hexed Cat - 1
-		Dog - 1
-		Slave - 1
-		Falcon - 1
-		Griffin - 1
-		Rat - 1
-		Fairy Spirit - 1
-		Snake - 1
-		Jackalope - 1
-		Bard - 1
-		Knight - 1
-		Wizard/Witch - 1
-		Imp - 1
-		Chocobo - 1
-		Owl - 1
-		Giant Raptor - 1
-		Big Cat - 1
-		Talking Object - 1
-		Finrir - 1
-		Fox - 1
-		Leprechaun - 1
+		Small Dragon
+		Dragon
+		Wyvern
+		Unicorn
+		Horse
+		Phoenix
+		Giant Bat
+		Hexed Cat
+		Dog
+		Slave
+		Falcon
+		Griffin
+		Rat
+		Fairy Spirit
+		Snake
+		Jackalope
+		Bard
+		Knight
+		Wizard/Witch
+		Imp
+		Chocobo
+		Owl
+		Giant Raptor
+		Big Cat
+		Talking Object
+		Finrir
+		Fox
+		Leprechaun
 	### Vitality
-		Helpless - 2
+		Helpless- - .5
+		Helpless - 1
 		Frail - 2
 		Weak - 3
 		Average - 10
-		Heathly - 5
-		Robust - 3
-		Vigorous - 2
+		Heathly - 3
+		Robust - 2
+		Vigorous - 1
+		Vigorous+ - .5
 	### Weakness
 		None - 3
 		Fragile Bone - 2
@@ -195,9 +212,9 @@
 		Hero - 1
 	### Skill Level
 		Skill-Less - 2
+		Novice - 5
 		Amateur - 5
 		Average - 15
-		Novice - 5
 		Skilled - 3
 		Expert - 2
 		Mastered - 1
@@ -253,10 +270,10 @@
 		 Overflowing - 1
 	### Intelligence
 		Mindless - 1
-		Dumb - 2
+		Lobotomized - 2
+		Dumb - 3
 		Average - 15
-		Smart - 5
-		Intelligent - 3
+		Smart - 3
 		Genius - 2
 		Prodigious - 1
 	### Durability
@@ -276,13 +293,15 @@
 		Formidable - 2
 		Overpowering - 1
 	### Speed 
+		Torpid - 0.5
+		Crippled - 1
 		Sluggish - 2
 		Slow - 3
 		Average - 15
-		Fast - 5
-		Accelerated - 3
-		SuperSonic - 2
-		HyperSonic - 1
+		Fast - 3
+		Accelerated - 2
+		SuperSonic - 1
+		HyperSonic - .5
 	### Element
 		None - 15
 		Fire - 5
