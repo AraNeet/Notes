@@ -4,5 +4,8 @@
   "obsidian-tasks-plugin",
   "obsidian-discordrpc",
   "obsidian-style-settings",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "obsidian-kanban",
+  "calendar",
+  "obsidian-excalidraw-plugin"
 ]

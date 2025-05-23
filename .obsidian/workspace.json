@@ -140,13 +140,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discord-Bot/Bogou - Research.md",
+                "file": "Excalidraw/Drawing 2025-05-23 00.08.11.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bogou - Research"
+              "title": "Outline of Drawing 2025-05-23 00.08.11.excalidraw"
+            }
+          },
+          {
+            "id": "12a0313d1d75364a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -165,14 +175,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3786df9282c214cd",
+  "active": "070fc6aa6559951c",
   "lastOpenFiles": [
+    "Discord-Bot/Bogou - Research.md",
+    "Excalidraw/Drawing 2025-05-23 00.08.11.excalidraw.md",
+    "Discord-Bot/Architecture.excalidraw.md",
+    "Discord-Bot/Bugou - Base Game Info.md",
+    "Roguelike",
+    "Roblox",
     "Discord-Bot/Bugou - Rarity System.md",
     "Discord-Bot/Bugou - Stats Values.md",
-    "Discord-Bot/Bogou - Research.md",
+    "Untitled Kanban.md",
+    "2025-05-22.md",
+    "Excalidraw/Drawing 2025-05-22 13.10.46.excalidraw.md",
+    "Excalidraw",
     "Discord-Bot/Untitled",
     "Discord-Bot/Index.md",
     "Bentos/Beef Bento.md",
