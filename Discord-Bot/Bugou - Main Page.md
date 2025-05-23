@@ -17,9 +17,8 @@
 - [Templ Docs](https://templ.guide/)
 
 ## Systems
-- Bot Customizing System
-- Shop System
-- Rolling System
-- Turn-Based Combat
-- Server-Based Storyline With AI 
+- [[Bugou Rarity System - Main Page]]
+- [[Bugou Shop System - Main Page]]
+- [[Bugou Game System - Main Page]]
+- [[Bugou Dashboard - Main Page]]
 
