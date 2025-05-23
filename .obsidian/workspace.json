@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-23 00.08.11.excalidraw.md",
+                "file": "Discord-Bot/Bogou - Research.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-05-23 00.08.11.excalidraw"
+              "title": "Outline of Bogou - Research"
             }
           },
           {
@@ -180,10 +180,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "070fc6aa6559951c",
+  "active": "3786df9282c214cd",
   "lastOpenFiles": [
-    "Discord-Bot/Bogou - Research.md",
     "Excalidraw/Drawing 2025-05-23 00.08.11.excalidraw.md",
+    "Discord-Bot/Bogou - Research.md",
     "Discord-Bot/Architecture.excalidraw.md",
     "Discord-Bot/Bugou - Base Game Info.md",
     "Roguelike",
