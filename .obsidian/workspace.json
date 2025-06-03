@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InterviewPrep-Bot/Main Page.md",
+                "file": "RustNotes/Rust - Scalar Data types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main Page"
+              "title": "Rust - Scalar Data types"
             }
           }
         ]
@@ -182,6 +182,9 @@
   },
   "active": "3786df9282c214cd",
   "lastOpenFiles": [
+    "RustNotes/Rust - Basics.md",
+    "RustNotes/Rust - Scalar Data types.md",
+    "RustNotes",
     "InterviewPrep-Bot/Main Page.md",
     "InterviewPrep-Bot",
     "Discord-Bot/Bugou - Main Page.md",
@@ -207,7 +210,6 @@
     "Excalidraw/Drawing 2025-05-23 00.08.11.excalidraw.md",
     "Discord-Bot/Architecture.excalidraw.md",
     "Roguelike",
-    "Roblox",
     "Discord-Bot/Bugou - Stats Values.md",
     "Untitled Kanban.md",
     "2025-05-22.md",
@@ -216,8 +218,6 @@
     "Bentos/Beef Bento.md",
     "Untitled.canvas",
     "Bentos/Chicken Teriyaki.md",
-    "Bentos/Tonkatsu Sando.md",
-    "Scripts/Intro.md",
-    "Story/Story Characters.md"
+    "Bentos/Tonkatsu Sando.md"
   ]
 }
