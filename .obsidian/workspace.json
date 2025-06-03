@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3786df9282c214cd",
+            "id": "694c4505f59685dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,30 @@
               "icon": "lucide-file",
               "title": "Main Page"
             }
+          },
+          {
+            "id": "37aff6119a073366",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "InterviewPrep-Bot/Trello Board/Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,9 +202,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3786df9282c214cd",
+  "active": "37aff6119a073366",
   "lastOpenFiles": [
     "InterviewPrep-Bot/Main Page.md",
+    "InterviewPrep-Bot/Trello Board/Board.md",
+    "InterviewPrep-Bot/Trello Board/Creating flow-charts and DB design.md",
+    "InterviewPrep-Bot/Trello Board/Choosing Tech Stack.md",
+    "InterviewPrep-Bot/Excalidraw/Top-ViewFlowChart.excalidraw.md",
+    "InterviewPrep-Bot/Trello Board",
+    "InterviewPrep-Bot/Database Structure.md",
+    "InterviewPrep-Bot/Excalidraw",
     "InterviewPrep-Bot",
     "Discord-Bot/Bugou - Main Page.md",
     "Discord-Bot/Bugou - Shop System/Bugou Shop System - Main Page.md",
@@ -203,21 +232,14 @@
     "Discord-Bot/Bugou - Dashboard",
     "Discord-Bot/Bugou - Dashboard Main Page.md",
     "Excalidraw/Drawing 2025-05-23 00.19.46.excalidraw.md",
-    "Excalidraw",
     "Excalidraw/Drawing 2025-05-23 00.08.11.excalidraw.md",
     "Discord-Bot/Architecture.excalidraw.md",
     "Roguelike",
-    "Roblox",
     "Discord-Bot/Bugou - Stats Values.md",
-    "Untitled Kanban.md",
     "2025-05-22.md",
     "Excalidraw/Drawing 2025-05-22 13.10.46.excalidraw.md",
     "Discord-Bot/Index.md",
     "Bentos/Beef Bento.md",
-    "Untitled.canvas",
-    "Bentos/Chicken Teriyaki.md",
-    "Bentos/Tonkatsu Sando.md",
-    "Scripts/Intro.md",
-    "Story/Story Characters.md"
+    "Untitled.canvas"
   ]
 }
