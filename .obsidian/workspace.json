@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8b7b4c9edd7fcc6a",
+        "id": "624210e0b7e0ef54",
         "type": "tabs",
         "children": [
           {
-            "id": "6fd984ef3f3aa578",
+            "id": "1a2e6e803ba79110",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Gaxaly/Character Research.md",
-                "mode": "source",
-                "source": false
+                "file": "Imgs/qs_arch_websockets.png"
               },
-              "icon": "lucide-file",
-              "title": "Character Research"
+              "icon": "lucide-image",
+              "title": "qs_arch_websockets"
             }
           }
         ]
@@ -180,20 +178,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6fd984ef3f3aa578",
+  "active": "070fc6aa6559951c",
   "lastOpenFiles": [
-    "Gaxaly/Board/Tasks Notes/Create base player controller.md",
     "Gaxaly/Board/Project tasks.md",
-    "Gaxaly/Design idea.md",
-    "Gaxaly/Board/Tasks Notes/Create minions behavior tree.md",
+    "Imgs",
+    "Gaxaly/Board/How to use board..md",
     "Gaxaly/Board/Tasks Notes/Design Neutral Objectives.md",
     "Gaxaly/Board/Tasks Notes/Design map concepts.md",
+    "Gaxaly/Board/Tasks Notes/Create base player controller.md",
+    "Gaxaly/Board/Tasks Notes/Create minions base systems.md",
     "Gaxaly/Board/Tasks Notes/Design 4 Character ideas.md",
-    "Revenue Share.md",
     "Gaxaly/Character Research.md",
-    "qs_arch_websockets.png",
-    "Planet+Color+Palette+sq.webp",
-    "GameLift with Serverless backend reference architecture diagram.png",
+    "Gaxaly/Design idea.md",
+    "Revenue Share.md",
+    "Imgs/qs_arch_websockets.png",
+    "Imgs/Planet+Color+Palette+sq.webp",
+    "Imgs/GameLift with Serverless backend reference architecture diagram.png",
     "Gaxaly/Board/Tasks Notes",
     "Gaxaly/Board",
     "Gaxaly/Excalidraw/Map Design.md",
@@ -213,13 +213,11 @@
     "InterviewPrep-Bot/Database Structure.md",
     "Gaxaly",
     "InterviewPrep-Bot/Main Page.md",
-    "InterviewPrep-Bot/Trello Board/Creating flow-charts and DB design.md",
     "AIAgentsNotes",
     "InterviewPrep-Bot/Trello Board",
     "InterviewPrep-Bot/Excalidraw",
     "RustNotes",
     "InterviewPrep-Bot",
-    "Discord-Bot/Bugou - Game System/Bugou Game System - Story",
     "Untitled.canvas"
   ]
 }

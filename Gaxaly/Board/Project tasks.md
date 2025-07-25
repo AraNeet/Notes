@@ -4,13 +4,20 @@ kanban-plugin: board
 
 ---
 
-## ToDo
+## Design tasks
 
 - [ ] [[Design map concepts]]
-- [ ] [[Design 4 Character ideas]]
 - [ ] [[Design Neutral Objectives]]
+
+
+## Art Tasks
+
+
+
+## Coding Tasks
+
 - [ ] [[Create base player controller]] ^ze7w5y
-- [ ] [[Create minions behavior tree]]
+- [ ] [[Create minions base systems]]
 
 
 ## Working on
@@ -27,6 +34,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%
