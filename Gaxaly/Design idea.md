@@ -84,20 +84,38 @@ Players select characters at match start, each providing unique abilities to:
 
 #### Secondary Objectives
 
-**Two Neutral Control Points**
-
+### 5.6.1 Two Neutral Control Points
 - Provide strategic advantages through buffs, debuffs, or system access
-- _Specific effects and mechanics to be determined during development_
 
-### 5.7 Visual Design
+#### 5.6.1.1 Ideas
+- One of the obj give player a vehicle for a determine time frame
+	- Vehicle - Is slow and must be controlled by a player. The vehicle does an increase amount of damage to structs. But can only damage player by running over.
+- One of the obj give players (base on the character) that last hit an empower ability for 3 casts. Second part of the buff also give play an amount of bonus max health damage equal to a % of the bonus stats.
+- Idea for persistent obj Every 5 mins or so. A obj spawn that gives the ability to the player to push their turret up on one side of the map for an amount of time that the turrets return to previous locations
 
-#### 5.7.1 Art Direction
+
+ _Specific effects and mechanics to be determined during development_
+## 5.7 Structure
+
+### 5.7.1 Turrets
+For a set time frame at the start of the game turrets will be close to the center of the maps for both sides as the game reaches (12 mins) example. The turrets will slowly retreat to the mini bases to reinforce the mini bases.
+
+Mid turret will be destructible.
+
+### 5.7.2 Mini Bases
+These structure could be destroyed or claimed. 
+If destroyed the turrets of the near by will retreat and become destructible. 
+If claimed the turrets get disable for the opposite team then minion that pass through the claim mini base become enhanced.
+
+### 5.8 Visual Design
+
+#### 5.8.1 Art Direction
 
 **Voxel Art Style** - A distinctive blocky, pixelated 3D aesthetic that supports both performance optimization and unique visual identity.
 
 _Additional visual specifications to be developed_
 
-### 5.8 Data Management
+### 5.9 Data Management
 
 _Technical specifications for player data, save systems, and server architecture to be determined_
 
@@ -138,6 +156,8 @@ The battlefield will feature various voxel-based FBX objects:
 ### 6.5 AI Elements & Game Progression
 
 **NPCs, Minions, and Neutral Camps** These serve as the primary mechanisms for match progression and map control.
+
+
 
 _Detailed breakdown and mechanics require further development_
 
