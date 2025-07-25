@@ -6,11 +6,11 @@ kanban-plugin: board
 
 ## ToDo
 
-- [ ] Design map concepts
-- [ ] Design 4 Character ideas
-- [ ] Design Neutral Objectives
-- [ ] Creating Player Controller ^ze7w5y
-- [ ] 
+- [ ] [[Design map concepts]]
+- [ ] [[Design 4 Character ideas]]
+- [ ] [[Design Neutral Objectives]]
+- [ ] [[Create base player controller]] ^ze7w5y
+- [ ] [[Create minions behavior tree]]
 
 
 ## Working on
