@@ -20,4 +20,4 @@ and gravity isn't automatic.
 - Step offset is what control how high the character can climb. 
 -  Delect collisions is use to disable or enable collision detection.
 - Overlap Recovery Enables or disables overlap recovery. Enables or disables overlap recovery. Used to depenetrate character controllers from static objects when an overlap is detected.
-- Collision flags: What part of the capsule collided with the environment during the last CharacterController.Move call.
+- Collision flags: What part of the capsule collided with the environment during the last CharacterController. Move call.
