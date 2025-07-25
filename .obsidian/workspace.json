@@ -4,21 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "dd45aad4376c9ae8",
+        "id": "dfca2d9043e3d722",
         "type": "tabs",
         "children": [
           {
-            "id": "3c5ac41272d78dc6",
+            "id": "02537fbb0db6751a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Gaxaly/Board/Tasks Notes/Design Neutral Objectives.md",
-                "mode": "source",
-                "source": false
+                "file": "Gaxaly/Board/Project tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Design Neutral Objectives"
+              "icon": "lucide-trello",
+              "title": "Project tasks"
             }
           }
         ]
@@ -180,27 +188,30 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3c5ac41272d78dc6",
+  "active": "02537fbb0db6751a",
   "lastOpenFiles": [
-    "Gaxaly/Board/Tasks Notes/Design map concepts.md",
     "Gaxaly/Board/Tasks Notes/Design Neutral Objectives.md",
-    "Gaxaly/Board/Tasks Notes/Create minions base systems.md",
-    "Gaxaly/Excalidraw/Map Design.md",
-    "thoughts-on-new-map-for-ranked-v0-pcaqnqrmytqc1.webp",
-    "for-the-new-conquest-map-where-would-be-some-new-optimal-v0-0fxpjofi6oda1.webp",
-    "Summoner%27s_Rift_map_s14.webp",
-    "the-new-dota-2-map-hd-4k-fr-upscaled-v0-ev5i4a1s88ke1.webp",
-    "Gaxaly/Board/Tasks Notes/Create base player controller.md",
-    "Imgs/qs_arch_websockets.png",
+    "download.jpg",
+    "download (1).jpg",
+    "maxresdefault.jpg",
+    "smite-2-fire-giant.webp",
+    "Gaxaly/GDD.md",
     "Gaxaly/Board/Project tasks.md",
-    "Imgs",
     "Gaxaly/Board/How to use board..md",
+    "Gaxaly/Board/Tasks Notes/Design map concepts.md",
+    "Gaxaly/Board/Tasks Notes/Create minions base systems.md",
+    "Gaxaly/Board/Tasks Notes/Create base player controller.md",
+    "Gaxaly/Excalidraw/Map Design.md",
+    "Imgs/thoughts-on-new-map-for-ranked-v0-pcaqnqrmytqc1.webp",
+    "Imgs/for-the-new-conquest-map-where-would-be-some-new-optimal-v0-0fxpjofi6oda1.webp",
+    "Imgs/Summoner%27s_Rift_map_s14.webp",
+    "Imgs/the-new-dota-2-map-hd-4k-fr-upscaled-v0-ev5i4a1s88ke1.webp",
+    "Imgs/qs_arch_websockets.png",
+    "Imgs",
     "Gaxaly/Board/Tasks Notes/Design 4 Character ideas.md",
     "Gaxaly/Character Research.md",
-    "Gaxaly/Design idea.md",
     "Revenue Share.md",
     "Imgs/Planet+Color+Palette+sq.webp",
-    "Imgs/GameLift with Serverless backend reference architecture diagram.png",
     "Gaxaly/Board/Tasks Notes",
     "Gaxaly/Board",
     "Gaxaly/Structure System.md",

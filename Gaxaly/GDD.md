@@ -135,7 +135,7 @@ Voided Masks is a fast-paced, team-based multiplayer online battle arena (MOBA) 
 
 - **12 players total** (6 players per team)
 - **Two opposing factions** with mirrored character rosters
-- **Match duration**: 20-40 minutes average
+- **Match duration**: 20-40 minutes average 
 - **Objective-based gameplay** centered around territorial control
 
 ### 5.2 Victory Conditions
@@ -280,7 +280,7 @@ Interactive structures that can be:
 - **Elevation advantage**: Higher ground provides extended vision range
 - **Strategic positioning**: Vision control becomes crucial tactical element
 
-#### 9.1.2 Day/Night Cycle
+#### 9.1.2 Day/Night Cycle (Idea not Sure)
 
 - **10-minute intervals** with 1 minute 30 seconds of daylight
 - **Enhanced visibility** during day cycles
@@ -305,10 +305,11 @@ Primary resource generation and lane progression mechanism.
     - _Tanks_: High durability, reduced damage output
 
 **Wave Configurations:**
-
+Normal Waves
 - **Base Wave**: 6 units (3 melee, 3 ranged) - 15-second spawn
 - **Speed Wave**: 4 melee units - 10-second spawn
 - **Range Wave**: 4 ranged + 1 sniper - 12-second spawn
+Objective Base Waves
 - **Power Wave**: 5 basic + 2 special units - 25-second spawn
 - **Enhanced Wave**: 6 basic + 2 special units - 25-second spawn
 
