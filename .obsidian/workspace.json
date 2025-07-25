@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "624210e0b7e0ef54",
+        "id": "dd45aad4376c9ae8",
         "type": "tabs",
         "children": [
           {
-            "id": "1a2e6e803ba79110",
+            "id": "3c5ac41272d78dc6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Imgs/qs_arch_websockets.png"
+                "file": "Gaxaly/Board/Tasks Notes/Design Neutral Objectives.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "qs_arch_websockets"
+              "icon": "lucide-file",
+              "title": "Design Neutral Objectives"
             }
           }
         ]
@@ -178,25 +180,29 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "070fc6aa6559951c",
+  "active": "3c5ac41272d78dc6",
   "lastOpenFiles": [
+    "Gaxaly/Board/Tasks Notes/Design map concepts.md",
+    "Gaxaly/Board/Tasks Notes/Design Neutral Objectives.md",
+    "Gaxaly/Board/Tasks Notes/Create minions base systems.md",
+    "Gaxaly/Excalidraw/Map Design.md",
+    "thoughts-on-new-map-for-ranked-v0-pcaqnqrmytqc1.webp",
+    "for-the-new-conquest-map-where-would-be-some-new-optimal-v0-0fxpjofi6oda1.webp",
+    "Summoner%27s_Rift_map_s14.webp",
+    "the-new-dota-2-map-hd-4k-fr-upscaled-v0-ev5i4a1s88ke1.webp",
+    "Gaxaly/Board/Tasks Notes/Create base player controller.md",
+    "Imgs/qs_arch_websockets.png",
     "Gaxaly/Board/Project tasks.md",
     "Imgs",
     "Gaxaly/Board/How to use board..md",
-    "Gaxaly/Board/Tasks Notes/Design Neutral Objectives.md",
-    "Gaxaly/Board/Tasks Notes/Design map concepts.md",
-    "Gaxaly/Board/Tasks Notes/Create base player controller.md",
-    "Gaxaly/Board/Tasks Notes/Create minions base systems.md",
     "Gaxaly/Board/Tasks Notes/Design 4 Character ideas.md",
     "Gaxaly/Character Research.md",
     "Gaxaly/Design idea.md",
     "Revenue Share.md",
-    "Imgs/qs_arch_websockets.png",
     "Imgs/Planet+Color+Palette+sq.webp",
     "Imgs/GameLift with Serverless backend reference architecture diagram.png",
     "Gaxaly/Board/Tasks Notes",
     "Gaxaly/Board",
-    "Gaxaly/Excalidraw/Map Design.md",
     "Gaxaly/Structure System.md",
     "Gaxaly/Upgrade System.md",
     "Gaxaly/Movement System.md",
