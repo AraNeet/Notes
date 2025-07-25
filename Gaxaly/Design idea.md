@@ -226,7 +226,7 @@ _Specific character classes and roles to be defined during development_
 
 Interactive structures that can be:
 
-- **Destroyed**: Causes nearby turrets to retreat and become destructible (3000 HP)
+- **Destroyed**: Causes nearby turrets to retreat and become destructible 
 - **Claimed**: Disables enemy turrets for 30 seconds and enhances passing minions
 
 #### 8.2.3 Main Bases
