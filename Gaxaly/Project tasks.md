@@ -6,17 +6,21 @@ kanban-plugin: board
 
 ## ToDo
 
-- [ ] Designing Core systems
-- [ ] Create Game Design Document
-- [ ] Dividing Tasks
+- [ ] Design map concepts
+- [ ] Design 4 Character ideas
+- [ ] Design Neutral Objectives
+- [ ] Creating Player Controller ^ze7w5y
+- [ ] 
 
 
 ## Working on
 
+- [ ] Designing Core systems
 
 
 ## Completed
 
+- [ ] Create Game Design Document
 
 
 
