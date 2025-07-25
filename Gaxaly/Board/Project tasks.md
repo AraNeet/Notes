@@ -15,12 +15,12 @@ kanban-plugin: board
 
 ## Working on
 
-- [ ] Designing Core systems
 
 
 ## Completed
 
 - [ ] Create Game Design Document
+- [ ] Designing Core systems
 
 
 

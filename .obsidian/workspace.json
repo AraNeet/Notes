@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revenue Share.md",
+                "file": "Gaxaly/Character Research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revenue Share"
+              "title": "Character Research"
             }
           }
         ]
@@ -182,18 +182,18 @@
   },
   "active": "6fd984ef3f3aa578",
   "lastOpenFiles": [
-    "Gaxaly/Character Research.md",
     "Gaxaly/Board/Tasks Notes/Create base player controller.md",
-    "Gaxaly/Board/Tasks Notes/Design 4 Character ideas.md",
-    "Gaxaly/Board/Tasks Notes/Create minions behavior tree.md",
-    "Gaxaly/Board/Tasks Notes/Design map concepts.md",
+    "Gaxaly/Board/Project tasks.md",
     "Gaxaly/Design idea.md",
+    "Gaxaly/Board/Tasks Notes/Create minions behavior tree.md",
+    "Gaxaly/Board/Tasks Notes/Design Neutral Objectives.md",
+    "Gaxaly/Board/Tasks Notes/Design map concepts.md",
+    "Gaxaly/Board/Tasks Notes/Design 4 Character ideas.md",
+    "Revenue Share.md",
+    "Gaxaly/Character Research.md",
     "qs_arch_websockets.png",
     "Planet+Color+Palette+sq.webp",
     "GameLift with Serverless backend reference architecture diagram.png",
-    "Revenue Share.md",
-    "Gaxaly/Board/Project tasks.md",
-    "Gaxaly/Board/Tasks Notes/Design Neutral Objectives.md",
     "Gaxaly/Board/Tasks Notes",
     "Gaxaly/Board",
     "Gaxaly/Excalidraw/Map Design.md",
