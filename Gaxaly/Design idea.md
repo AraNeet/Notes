@@ -160,7 +160,10 @@ The battlefield will feature various voxel-based FBX objects:
 - **Space Buildings**: Static defensive structures
 - **Floating Objects**: Aerial platforms and obstacles
 
-### 6.5 AI Elements & Game Progression
+## 6.5 Fog of space / Vision
+Light on the plant is less that on other plants. So player can only see a set distance around them. If the plant is on higher ground the player can see a lot move around them.
+
+### 6.6 AI Elements & Game Progression
 
 **NPCs, Minions, and Neutral Camps** These serve as the primary mechanisms for match progression and map control.
 
@@ -168,7 +171,7 @@ The battlefield will feature various voxel-based FBX objects:
 
 _Detailed breakdown and mechanics require further development_
 
-### 6.6 Control Schemes
+### 6.7 Control Schemes
 
 **PC (Primary):**
 
