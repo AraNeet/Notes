@@ -84,16 +84,23 @@ Players select characters at match start, each providing unique abilities to:
 
 #### Secondary Objectives
 
-### 5.6.1 Two Neutral Control Points
+### 5.6.1 Two Neutral Control Points and Jungle buffs
 - Provide strategic advantages through buffs, debuffs, or system access
 
 #### 5.6.1.1 Ideas
+##### 5.6.1.1.1 rotating objs
 - One of the obj give player a vehicle for a determine time frame
 	- Vehicle - Is slow and must be controlled by a player. The vehicle does an increase amount of damage to structs. But can only damage player by running over.
 - One of the obj give players (base on the character) that last hit an empower ability for 3 casts. Second part of the buff also give play an amount of bonus max health damage equal to a % of the bonus stats.
+##### 5.6.1.1.2 Stacking objs
+- One of the obj is a stacking obj that give player that auto attack minions under their turret increase defense for 2 seconds. for a max of 6 second which scales with amount of stacks for a max of 15 seconds. If player attack enemy player under their turret bonus defense go to normal.
+##### 5.6.1.1.3 persistent objs
 - Idea for persistent obj Every 5 mins or so. A obj spawn that gives the ability to the player to push their turret up on one side of the map for an amount of time that the turrets return to previous locations
+- Idea for persistent obj Every 10 mins or so. A obj spawn that give a rebuff to enemy player receive a % of bonus damage. and reduce turret attack speed by %.
 
-
+##### 5.6.1.1.4 Jungle Buffs
+- One of jungle buff give jungler a buff that lasts 3 mins. This buff give jungler a bonus damage to jungle camp and a % increase against enemy player.
+- One of jungle buff give jungler a buff that lasts 3 mins. This buff gives jungler an enhanced ability every 2 ability. This enhanced ability deals % extra damage from base. If the ability is a shield or buff it increases the ability effectiveness by a %
  _Specific effects and mechanics to be determined during development_
 ## 5.7 Structure
 
