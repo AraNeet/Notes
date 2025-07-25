@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity Notes.md",
+                "file": "Gaxaly/Movement System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unity Notes"
+              "title": "Movement System"
             }
           }
         ],
@@ -209,18 +209,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "070fc6aa6559951c",
+  "active": "03bb667200e45829",
   "lastOpenFiles": [
+    "Gaxaly/Project tasks.md",
+    "Gaxaly/Role System.md",
     "Gaxaly/Movement System.md",
+    "Gaxaly/Design idea.md",
+    "Gaxaly/Character Research.md",
     "Unity Notes.md",
     "AIAgentsNotes/Main Understandings.md",
-    "Gaxaly/Character Research.md",
-    "Gaxaly/Design idea.md",
     "Gaxaly/Wave System.md",
     "Gaxaly/Upgrade System.md",
     "Gaxaly/Structure System.md",
-    "Gaxaly/Role System.md",
-    "Gaxaly/Project tasks.md",
     "Discord-Bot/Bugou - Rarity System/Bugou  - Rarity System.md",
     "Discord-Bot/Bugou - Rarity System/Bugou Rarity System - Main Page.md",
     "Discord-Bot/Bugou - Main Page.md",
