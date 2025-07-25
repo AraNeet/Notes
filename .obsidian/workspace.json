@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gaxaly/Board/Tasks Notes/Create base player controller.md",
+                "file": "Gaxaly/Design idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Create base player controller"
+              "title": "Design idea"
             }
           }
         ]
@@ -182,10 +182,11 @@
   },
   "active": "6fd984ef3f3aa578",
   "lastOpenFiles": [
+    "Revenue Share.md",
     "Gaxaly/Board/Project tasks.md",
+    "Gaxaly/Board/Tasks Notes/Create base player controller.md",
     "Gaxaly/Board/Tasks Notes/Design map concepts.md",
     "Gaxaly/Board/Tasks Notes/Design Neutral Objectives.md",
-    "Gaxaly/Board/Tasks Notes/Create base player controller.md",
     "Gaxaly/Board/Tasks Notes",
     "Gaxaly/Board",
     "Gaxaly/Board/Tasks Notes/Create minions behavior tree.md",
