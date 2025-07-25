@@ -1,6 +1,6 @@
 All information relate to this card can be placed here. Any progress done needs to be documented and explain within this note.
 
-WWO:
+WWO: Aramis Martinez
 ## Note: For the state machine. When making the the code I like a base state machine (SM For short) that all other SM are base off. 
 # Task - Create the player character.
 Notes: 

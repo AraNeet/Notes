@@ -1,4 +1,4 @@
-All information relate to this card can be placed here.
+All information relate to this card can be placed here. Any progress done needs to be documented and explain within this note.
 
 WWO:
 
