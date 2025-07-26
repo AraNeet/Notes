@@ -21,10 +21,10 @@ kanban-plugin: board
 ## Coding Tasks
 
 - [ ] [[Create minions base systems]]
-- [ ] Create turret systems
-- [ ] Create Mini bases and bases Systems.
-- [ ] Create Jungle timer and spawn system.
-- [ ] Create vehicle controller
+- [ ] [[Create turret systems]]
+- [ ] [[Create Mini bases and bases Systems.]]
+- [ ] [[Create Jungle timer and spawn system.]]
+- [ ] [[Create vehicle controller]]
 - [ ] Create Interactable systems
 - [ ] Create Floating objects systems
 - [ ] Create UI controls.

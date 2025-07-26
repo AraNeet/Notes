@@ -21,3 +21,5 @@ and gravity isn't automatic.
 -  Delect collisions is use to disable or enable collision detection.
 - Overlap Recovery Enables or disables overlap recovery. Enables or disables overlap recovery. Used to depenetrate character controllers from static objects when an overlap is detected.
 - Collision flags: What part of the capsule collided with the environment during the last CharacterController. Move call.
+- IsGrounded: has the collision set to below.
+- Method Move and Simple Move: Use a vector3. Simple move is frame independent. while Move need to be managed first. Move is better.
