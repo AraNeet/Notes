@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "6a186ac1fefd9ea5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "58736e01cd9be2b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gaxaly/Board/Tasks Notes/Create the input system.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Create the input system"
-            }
-          }
-        ]
-      },
-      {
         "id": "4b6d8bbcef22f6c1",
         "type": "tabs",
         "children": [
@@ -31,14 +11,22 @@
             "id": "06019c15bcb036ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Unity Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Gaxaly/Board/Project tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Unity Notes"
+              "icon": "lucide-trello",
+              "title": "Project tasks"
             }
           }
         ]
@@ -201,15 +189,16 @@
   },
   "active": "06019c15bcb036ba",
   "lastOpenFiles": [
+    "Gaxaly/Excalidraw/Map Design.md",
     "Gaxaly/Board/Project tasks.md",
-    "Gaxaly/Board/Tasks Notes/Create vehicle controller.md",
     "Gaxaly/Board/Tasks Notes/Create the input system.md",
+    "Unity Notes.md",
+    "Gaxaly/Board/Tasks Notes/Create vehicle controller.md",
     "Create Jungle timer and spawn system..md",
     "Gaxaly/Board/Tasks Notes/Create Mini bases and bases Systems..md",
     "Gaxaly/Board/Tasks Notes/Design map concepts.md",
     "Gaxaly/GDD.md",
     "Gaxaly/Board/Tasks Notes/Create turret systems.md",
-    "Gaxaly/Excalidraw/Map Design.md",
     "Gaxaly/Board/How to use board..md",
     "Gaxaly/Board/Tasks Notes/Create base player controller.md",
     "Gaxaly/Board/Tasks Notes/Design Neutral Objectives.md",
@@ -239,7 +228,6 @@
     "Gaxaly/Movement System.md",
     "Gaxaly/Role System.md",
     "Gaxaly/Wave System.md",
-    "Unity Notes.md",
     "AIAgentsNotes/Main Understandings.md",
     "Gaxaly/Excalidraw",
     "Gaxaly",
