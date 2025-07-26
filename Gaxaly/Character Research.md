@@ -1,5 +1,9 @@
 In this document people can recommend character ideas.
 
+By alpha test: 10 character
+By Beta closed test: 16 character
+By Beta open test: 20 character
+By Release: 24 character
 ## Character concept 1.0
 Gravity Lord
 - Base concept is a character that can control gravity waves.

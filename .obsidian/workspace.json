@@ -11,22 +11,14 @@
             "id": "06019c15bcb036ba",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Gaxaly/Board/Project tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Gaxaly/Character Research.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Project tasks"
+              "icon": "lucide-file",
+              "title": "Character Research"
             }
           }
         ]
@@ -189,21 +181,21 @@
   },
   "active": "06019c15bcb036ba",
   "lastOpenFiles": [
-    "Gaxaly/Excalidraw/Map Design.md",
-    "Gaxaly/Board/Project tasks.md",
-    "Gaxaly/Board/Tasks Notes/Create the input system.md",
-    "Unity Notes.md",
-    "Gaxaly/Board/Tasks Notes/Create vehicle controller.md",
-    "Create Jungle timer and spawn system..md",
-    "Gaxaly/Board/Tasks Notes/Create Mini bases and bases Systems..md",
-    "Gaxaly/Board/Tasks Notes/Design map concepts.md",
     "Gaxaly/GDD.md",
-    "Gaxaly/Board/Tasks Notes/Create turret systems.md",
-    "Gaxaly/Board/How to use board..md",
+    "Gaxaly/Character Research.md",
+    "Gaxaly/Board/Project tasks.md",
+    "Gaxaly/Board/Tasks Notes/Design map concepts.md",
     "Gaxaly/Board/Tasks Notes/Create base player controller.md",
     "Gaxaly/Board/Tasks Notes/Design Neutral Objectives.md",
+    "Gaxaly/Board/Tasks Notes/Create vehicle controller.md",
+    "Gaxaly/Board/Tasks Notes/Create turret systems.md",
     "Gaxaly/Board/Tasks Notes/Create minions base systems.md",
-    "Gaxaly/Character Research.md",
+    "Gaxaly/Board/Tasks Notes/Create Mini bases and bases Systems..md",
+    "Gaxaly/Board/Tasks Notes/Create the input system.md",
+    "Gaxaly/Board/How to use board..md",
+    "Gaxaly/Excalidraw/Map Design.md",
+    "Unity Notes.md",
+    "Create Jungle timer and spawn system..md",
     "2025-07-25.md",
     "Imgs/smite-2-fire-giant.webp",
     "Untitled Kanban.md",

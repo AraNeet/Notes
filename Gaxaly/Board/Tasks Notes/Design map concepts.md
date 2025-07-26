@@ -1,6 +1,6 @@
 All information relate to this card can be placed here. Any progress done needs to be documented and explain within this note.
 
-WWO:
+WWO: 
 
 ## Task: This take is design the look and feel of the map drawn out.
 Layout need to follow the design map [[Map Design]]. While lane length and width can be edit.
